@@ -1,4 +1,4 @@
-# ✿ DAZZLEGLOSS
+# ✿ LAVENDERISH 
 
 **i create beautiful worlds that feel like memories you never had**
 
@@ -86,6 +86,6 @@ currently_executing = glam_up(life)
 
 
 > *"this isn't a portfolio. it's a projection."*  
-> — **DAZZLEGLOSS**
+> — **LAVENDERISH**
 
 made with insomnia + lavender tea — z
