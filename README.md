@@ -73,7 +73,7 @@ i believe in the art of imperfection — the frame left unfocused, the dream hal
 ## Reach Out
 
 if you found this place by fate, open an issue with **"hey there!"**  
-or simply add me on discord **@ tba**
+or simply add me on discord **@justacatluvr**
 
 
 ## Current Status
