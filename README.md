@@ -1,4 +1,4 @@
-# ✿ SLOWSYNCED  
+# ✿ phantomsync  
 
 **i create beautiful worlds that feel like memories you never had**
 
@@ -79,6 +79,11 @@ or simply add me on discord **@slowsync**
 ## Current Status
 
 ```python
+def glam_up(life):
+    while insomnia and lavender_tea:
+        build("quiet systems and strange little worlds")
+    return "something beautiful, eventually"
+
 currently_executing = glam_up(life)
 ```
 
@@ -86,6 +91,4 @@ currently_executing = glam_up(life)
 
 
 > *"this isn't a portfolio. it's a projection."*  
-> — **SLOWSYNCED**
-
-made with insomnia + lavender tea — z
+> — **phantomsync**
